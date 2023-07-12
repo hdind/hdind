@@ -5,12 +5,12 @@
 
 My background and experiences:
 
-- ⚙ I'm a studying of Production Engineering
-- 🎲 I have been working with data about 1 year
-- 🐍 Python development, focused in data analysis, exploration, cleaning, vizualization and machine learning
+- ⚙ I'm studying Production Engineering
+- 🎲 I have been working with data about 2 years
+- 🐍 Python development, focused in data pipelines, design patters, clean code and architeture
 - 👨‍💻 I've worked with MS Excel to business intelligence, exploring data and bringing insights to decision making
 - 💻 I've learned Power BI to data viz and processing with ETL
-- 📈 Experience with retail, demand forecast, inventory control and crm creation
+- 📈 Experience with retail, demand forecast, inventory control, crm creation and dealing with health data
 
 <div align="center">
   <a href="https://github.com/hdind">
