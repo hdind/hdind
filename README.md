@@ -1,15 +1,12 @@
-![LinkedIn Banner](https://user-images.githubusercontent.com/102533459/181776801-e6e20e12-415c-4eab-acb9-9c4e16672c87.png)
-
-
-## Hi, there! I'm thankful you came up to here, my name is Pedro and this is my Data Science / Machine Learning repository!
+## Hi, there! My name is Pedro and this is my Data Engineering repository!
 
 My background and experiences:
 
 - ⚙ I'm studying Production Engineering
-- 🎲 I have been working with data about 2 years
+- 🎲 I have been working with data about 3 years
 - 🐍 Python development, focused in data pipelines, design patters, clean code and architeture
 - 👨‍💻 I've worked with MS Excel to business intelligence, exploring data and bringing insights to decision making
-- 💻 I've learned Power BI to data viz and processing with ETL
+- 💻 I've learned Power BI to data viz and processing
 - 📈 Experience with retail, demand forecast, inventory control, crm creation and dealing with health data
 
 <div align="center">
